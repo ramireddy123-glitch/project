@@ -1,2 +1,2 @@
-# project
-recipes identifier
+# flavorgraph
+recipes navigator

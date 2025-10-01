@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Tomato Soup",
+    "image_path": "/static/tomato-soup.jpg",
+    "required_ingredients": [
+      {"item": "tomatoes", "quantity": 4, "unit": "cups"},
+      {"item": "onion", "quantity": 1, "unit": "medium"},
+      {"item": "broth", "quantity": 2, "unit": "cups"},
+      {"item": "cream", "quantity": 0.5, "unit": "cup"}
+    ],
+    "instructions": "Simmer onions and tomatoes. Add broth. Blend until smooth. Stir in cream. Serve hot."
+  },
+  {
+    "id": 2,
+    "name": "Quick Egg Fried Rice",
+    "image_path": "/static/fried_rice.jpg",
+    "required_ingredients": [
+      {"item": "rice", "quantity": 2, "unit": "cups"},
+      {"item": "eggs", "quantity": 2, "unit": "count"},
+      {"item": "soy sauce", "quantity": 2, "unit": "tbsp"},
+      {"item": "carrots", "quantity": 0.5, "unit": "cup"},
+      {"item": "peas", "quantity": 0.5, "unit": "cup"}
+    ],
+    "instructions": "Stir-fry carrots and peas. Scramble eggs. Add rice and soy sauce. Mix well."
+  },
+  {
+    "id": 3,
+    "name": "Simple Spaghetti Aglio e Olio",
+    "image_path": "/static/delicious-spaghetti.jpg",
+    "required_ingredients": [
+      {"item": "spaghetti", "quantity": 1, "unit": "lb"},
+      {"item": "garlic", "quantity": 4, "unit": "cloves"},
+      {"item": "olive oil", "quantity": 0.5, "unit": "cup"},
+      {"item": "red pepper flakes", "quantity": 1, "unit": "tsp"}
+    ],
+    "instructions": "Cook spaghetti. Sauté garlic and red pepper in olive oil. Toss with pasta."
+  },
+  {
+    "id": 4,
+    "name": "Chicken and Broccoli Stir Fry",
+    "image_path": "/static/chicken_stirfry.jpg",
+    "required_ingredients": [
+      {"item": "chicken breast", "quantity": 1, "unit": "lb"},
+      {"item": "broccoli", "quantity": 2, "unit": "cups"},
+      {"item": "soy sauce", "quantity": 3, "unit": "tbsp"},
+      {"item": "ginger", "quantity": 1, "unit": "tsp"},
+      {"item": "rice", "quantity": 2, "unit": "cups"}
+    ],
+    "instructions": "Cook chicken. Add broccoli, soy sauce, and ginger. Serve over rice."
+  },
+  {
+    "id": 5,
+    "name": "Fluffy Buttermilk Pancakes",
+    "image_path": "/static/pancakes.jpg",
+    "required_ingredients": [
+      {"item": "flour", "quantity": 1, "unit": "cup"},
+      {"item": "milk", "quantity": 1, "unit": "cup"},
+      {"item": "eggs", "quantity": 1, "unit": "count"},
+      {"item": "sugar", "quantity": 2, "unit": "tbsp"},
+      {"item": "baking powder", "quantity": 2, "unit": "tsp"}
+    ],
+    "instructions": "Mix dry ingredients. Whisk wet ingredients. Combine and cook on a griddle."
+  },
+  {
+    "id": 6,
+    "name": "Ground Beef Tacos",
+    "image_path": "/static/tacos.jpg",
+    "required_ingredients": [
+      {"item": "ground beef", "quantity": 1, "unit": "lb"},
+      {"item": "taco seasoning", "quantity": 1, "unit": "packet"},
+      {"item": "tortillas", "quantity": 10, "unit": "count"},
+      {"item": "lettuce", "quantity": 1, "unit": "cup"},
+      {"item": "cheese", "quantity": 0.5, "unit": "cup"}
+    ],
+    "instructions": "Brown ground beef and season. Heat tortillas. Assemble with toppings."
+  },
+  {
+    "id": 7,
+    "name": "Hearty Lentil Soup",
+    "image_path": "/static/lentil_soup.jpg",
+    "required_ingredients": [
+      {"item": "lentils", "quantity": 1, "unit": "cup"},
+      {"item": "carrots", "quantity": 2, "unit": "count"},
+      {"item": "celery", "quantity": 2, "unit": "stalks"},
+      {"item": "onion", "quantity": 1, "unit": "medium"},
+      {"item": "vegetable broth", "quantity": 6, "unit": "cups"}
+    ],
+    "instructions": "Sauté vegetables. Add lentils and broth. Simmer until tender (about 30 minutes)."
+  },
+  {
+    "id": 8,
+    "name": "Classic Guacamole",
+    "image_path": "/static/guacamole.jpg",
+    "required_ingredients": [
+      {"item": "avocados", "quantity": 3, "unit": "count"},
+      {"item": "lime juice", "quantity": 2, "unit": "tbsp"},
+      {"item": "onion", "quantity": 0.25, "unit": "cup"},
+      {"item": "cilantro", "quantity": 0.25, "unit": "cup"}
+    ],
+    "instructions": "Mash avocados. Mix in lime juice, chopped onion, and cilantro. Season with salt."
+  },
+  {
+    "id": 9,
+    "name": "Gourmet Grilled Cheese",
+    "image_path": "/static/grilled_cheese.jpg",
+    "required_ingredients": [
+      {"item": "bread", "quantity": 2, "unit": "slices"},
+      {"item": "cheddar cheese", "quantity": 2, "unit": "slices"},
+      {"item": "butter", "quantity": 1, "unit": "tbsp"}
+    ],
+    "instructions": "Butter bread on one side. Place cheese between unbuttered sides. Grill until golden brown."
+  },
+  {
+    "id": 10,
+    "name": "Simple Banana Smoothie",
+    "image_path": "/static/banana_smoothie.jpg",
+    "required_ingredients": [
+      {"item": "banana", "quantity": 1, "unit": "count"},
+      {"item": "milk", "quantity": 1, "unit": "cup"},
+      {"item": "yogurt", "quantity": 0.5, "unit": "cup"},
+      {"item": "honey", "quantity": 1, "unit": "tsp"}
+    ],
+    "instructions": "Combine all ingredients in a blender. Blend until smooth and creamy. Serve immediately."
+  }
+]
